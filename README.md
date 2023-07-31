@@ -1,4 +1,7 @@
-# co4674939985d2f749e18f12c
+# Course Project In React
+
+![image](https://github.com/rir7890/CourseProjectInReact/assets/98277620/be3784a9-c951-4d4a-a78e-98616ffe6a8a)
+
 
 Quick start:
 
